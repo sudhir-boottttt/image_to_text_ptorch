@@ -4,7 +4,7 @@
 
 # app = Flask(__name__)
 
-# API_KEY = "AIzaSyC53AW2MJOjA-HUJLPLg6ORUqT4ilneSFM"
+# API_KEY = "hehehe put y"
 # API_URL = "https://api.openai.com/v1/chat/completions"
 
 # @app.route("/describe", methods=["POST"])
